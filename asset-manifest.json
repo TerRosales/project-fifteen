@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-fifteen/static/css/main.f1995d27.css",
+    "main.js": "/project-fifteen/static/js/main.0ed3e7c2.js",
+    "index.html": "/project-fifteen/index.html",
+    "main.f1995d27.css.map": "/project-fifteen/static/css/main.f1995d27.css.map",
+    "main.0ed3e7c2.js.map": "/project-fifteen/static/js/main.0ed3e7c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1995d27.css",
+    "static/js/main.0ed3e7c2.js"
+  ]
+}
